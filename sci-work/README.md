@@ -1,5 +1,9 @@
-# Welcome to Docsify Page!
+# Introduction to Scientific Working
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**Opensource.com**](https://opensource.com) demo.
+Hi and welcome! On this page you can find different resources for scientific work, this includes:
 
-![Welcome to Opensource.com](./images/cover.jpg)
+* Theses and paper writing
+* Literature survey
+* Set up studies
+* Formulate research questions
+* Good scientific practice

@@ -1,14 +1,9 @@
 <!-- _coverpage.md -->
 
-# docsify <small>4.7.0</small>
+# Introduction to Scientific Work
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Schnellstart](#quick-start)
+Welcome! This website contains several resources related to scientific work. 
 
-<!-- Hintegrundbild -->
+<!-- Backgroundcolor -->
 
-![](_media/bg.png)
-
-<!-- Hintegrundfarbe -->
-
-![color](#f0f0f0)
+![color](#1ABC9C)

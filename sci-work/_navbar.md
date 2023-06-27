@@ -3,12 +3,8 @@
 
 * [HOME](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
-* [About](./about/index)
-
-* [Contact](./contact/index)
+* [Introduction](./introduction/index)
+* [Thesis Writing](./thesis/index)
+* [Paper Writing](./paper/index)
+* [Resources](./resources/index)
 

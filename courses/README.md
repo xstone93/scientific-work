@@ -1,9 +1,6 @@
-# Introduction to Scientific Working
+# Teaching
 
-Hi and welcome! On this page you can find different resources for scientific work, this includes:
+I am teaching a lot of different courses related to computer science and computer science education. Here you can find some lecture materials and resources. Feel free to use them. 
 
-* Theses and paper writing
-* Literature survey
-* Set up studies
-* Formulate research questions
-* Good scientific practice
+## Multimedia Systems 2 (University College of Teacher Education)
+[MIM2 - SS 2023](MIM2_23.MD)

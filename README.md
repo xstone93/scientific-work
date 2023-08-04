@@ -1,5 +1,4 @@
-# Alexander Steinmaurer
-## Research Blog
+# Alexander Steinmaurer  - Research Blog
 
 Hi, I am Alexander Steinmaurer, a researcher and lecturer at the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtain a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology. 
 

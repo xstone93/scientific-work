@@ -1,10 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [Home](./)
 
-* [Introduction](./introduction/index)
-* [Thesis Writing](./thesis/index)
-* [Paper Writing](./paper/index)
-* [Resources](./resources/index)
+* [Course on Scientific Working](./course/index)
 

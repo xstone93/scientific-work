@@ -1,6 +1,6 @@
 # Alexander Steinmaurer  - Academic Blog
 
-Hi, I am Alexander Steinmaurer, a researcher and lecturer at the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of Prof. [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
+Hi, I am Alexander Steinmaurer, a researcher and lecturer at the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
 
 During the fall semester of 2023, I am at Brown University as a Research Fellow working on a curriculum for data science education using LLMs advised by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) and [Kathi Fisler](https://cs.brown.edu/~kfisler/). 
 
@@ -37,7 +37,7 @@ I also had the honor to work with talented Bachelor and Master students and (co-
 
 # Research 
 
-I liked to use [Research Gate](https://www.researchgate.net/profile/Alexander-Steinmaurer-3) for a while to manage all my publications. But as with almost every social network, it requires active maintenance, which takes some time. Even though RG has some good functionality to support you as much as possible, I ended up using mainly [Google Scholar](https://scholar.google.com/citations?hl=de&user=vERJIRAAAAAJ) instead. There you can find all my (recent) papers. 
+I liked to use [Research Gate](https://www.researchgate.net/profile/Alexander-Steinmaurer-3) for a while to manage all my publications. But as with almost every social network, it requires active maintenance, which takes some time. Even though RG has some good functionality to support you as much as possible, I ended up using mainly [Google Scholar](https://scholar.google.com/citations?hl=de&user=vERJIRAAAAAJ) instead. There you can find all my (recent) papers. Furthermore, I have a [publication list](https://docs.google.com/document/d/1tQNeT14SvJLDQMYDtfQeuHtdW_vwFraIA8bpwHQnCPM/edit?usp=sharing) on Google Docs.  
 
 If you are interested in my research area and would like to discuss your ideas for a Bachelor's or Master's thesis, I would love to hear from you - drop me an email (alexander.steinmaurer@tugraz.at). Ensure that this email also contains some first serious thoughts on the topic, including an interesting problem/question you would like to answer (you do not have to come up with a solution/implementation, a good question is a perfect starting point!) 
 

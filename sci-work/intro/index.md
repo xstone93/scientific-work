@@ -17,6 +17,8 @@ However, I am realistic enough to know that just a small number of students woul
 For this reason, I tried to make a short YouTube video covering the most necessary basics (!) about this topic.
 Make sure you watch this video since it is a preparation for the upcoming blocks. We **expect** you to have watched the video.
 
-- [] [Introduction to Scientific Working](https://www.youtube.com/watch?v=NIbp18fU5Ww) \[YouTube Video\]
-- [] [Script: Scientific Working](https://codislabgraz.org/resources/Scientific_Writing.pdf) \[Document\]
-- [] [Code of Conduct for Thesis](https://docs.google.com/document/d/1SeLJszR1IGaoiDnwVDdC6j1SOBHlFG6E_qLhVEr9vT0/edit) \[Document\]
+Resources:
+
+* [Introduction to Scientific Working](https://www.youtube.com/watch?v=NIbp18fU5Ww) \[YouTube Video\]
+* [Script: Scientific Working](https://codislabgraz.org/resources/Scientific_Writing.pdf) \[Document\]
+* [Code of Conduct for Thesis](https://docs.google.com/document/d/1SeLJszR1IGaoiDnwVDdC6j1SOBHlFG6E_qLhVEr9vT0/edit) \[Document\]

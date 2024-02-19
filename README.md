@@ -1,12 +1,12 @@
 # Alexander Steinmaurer  - Academic Blog
 
-Hi, I am Alexander Steinmaurer, a researcher and lecturer at the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
+Hi, I am Alexander Steinmaurer, a researcher and lecturer at [IT:U Austria](https://it-u.at/), a newly founded, interdisciplinary university in Linz, Austria. I am also an adjunct fellow to the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
 
-During the fall semester of 2023, I am at Brown University as a Research Fellow working on a curriculum for data science education using LLMs advised by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) and [Kathi Fisler](https://cs.brown.edu/~kfisler/). 
+During the fall semester of 2023, I worked as a Research Fellow at the [PLT Group](https://cs.brown.edu/research/plt/) of Brown University. I worked on approaches and tools to rethinking data science/programming education in times of LLMs, advised by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) and [Kathi Fisler](https://cs.brown.edu/~kfisler/).
 
 My research interests are mainly in the field of Computer Science Education. Here is a list of topics that I am interested in:
 
-- **Engaging learning technologies** - Designing engaging and interactive learning experiences in digital environments. This not only includes the development of technologies but also the evaluation within an educational setting. 
+- **Engaging learning technologies** - Designing engaging and interactive learning experiences in digital (and immersive) environments. This not only includes the development of technologies but also the evaluation within an educational setting. 
 - **Curriculum design** - Designing dedicated curricula for different educational contexts and topics such as data science, introduction to programming, or computational thinking. 
 - **LLMs in (CS) Education** - Meaningful (!) integration of large language models (LLMs) into educational contexts, such as individualizing learning experiences.
 - **Game-based learning/Gamification** - From a broad perspective, game-based learning could be seen as an engaging learning technology. But GBL/gamification is more than "playing a game and learning". A well-considered design process, implementation, and evaluation are necessary for both the tool and the teaching context.
@@ -15,7 +15,7 @@ My research interests are mainly in the field of Computer Science Education. Her
 
 # Teaching
 ## Courses
-During my academic career, I had the opportunity to hold a lot of different lectures and courses, including:
+During my academic career, I had the opportunity to hold a lot of different lectures and courses. I hold/held courses at Graz University of Technology, FH Campus 02, University of Applied Sciences Upper Austria, and University College of Teacher Education Styria.
 
 - **Introduction to Programming** - This course is offered as a first-semester course (winter semester) at TU Graz and is an introduction to programming using the C programming language. Around 800 students from different study programs participate each year in this lecture and practical lab. \[Winter Semester 2020/21, 2021/22, 2022/23, and 2023/24\]
 - **Object-oriented Programming 1** - This follow-up course on *Introduction to Programming* is a second-semester course where students learn the fundamentals of object-oriented programming using C++. \[Summer Semester 2021, 2022, 2023\]
@@ -39,7 +39,7 @@ I also had the honor to work with talented Bachelor and Master students and (co-
 
 I liked to use [Research Gate](https://www.researchgate.net/profile/Alexander-Steinmaurer-3) for a while to manage all my publications. But as with almost every social network, it requires active maintenance, which takes some time. Even though RG has some good functionality to support you as much as possible, I ended up using mainly [Google Scholar](https://scholar.google.com/citations?hl=de&user=vERJIRAAAAAJ) instead. There you can find all my (recent) papers. Furthermore, I have a [publication list](https://docs.google.com/document/d/1tQNeT14SvJLDQMYDtfQeuHtdW_vwFraIA8bpwHQnCPM/edit?usp=sharing) on Google Docs.  
 
-If you are interested in my research area and would like to discuss your ideas for a Bachelor's or Master's thesis, I would love to hear from you - drop me an email (alexander.steinmaurer@tugraz.at). Ensure that this email also contains some first serious thoughts on the topic, including an interesting problem/question you would like to answer (you do not have to come up with a solution/implementation, a good question is a perfect starting point!) 
+If you are interested in my research area and would like to discuss your ideas for a Bachelor's or Master's thesis, I would love to hear from you - drop me an email (alexander.steinmaurer@it-u.at). Ensure that this email also contains some first serious thoughts on the topic, including an interesting problem/question you would like to answer (you do not have to come up with a solution/implementation, a good question is a perfect starting point!) 
 
 [Here](https://xstone93.github.io/sci-work/#/) I also try to collect some useful resources and give you some advice. Make sure to check this page; It explains the different stages of research projects (as part of a thesis). 
 

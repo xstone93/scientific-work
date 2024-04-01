@@ -7,11 +7,12 @@ During the fall semester of 2023, I worked as a Research Fellow at the [PLT Grou
 My research interests are mainly in the field of Computer Science Education. Here is a list of topics that I am interested in:
 
 - **Engaging learning technologies** - Designing engaging and interactive learning experiences in digital (and immersive) environments. This not only includes the development of technologies but also the evaluation within an educational setting. 
+- **LLM-assisted (CS) teaching** - Meaningful (!) integration of large language models (LLMs) into educational contexts, such as individualizing learning experiences.
+- **Educational data analysis** - Analysis of educational data (qualitative and quantitative) retrieved from a real-life context such as courses, workshops, learning technology, etc.
+- **Virtual Reality in Teaching** - Using mixed reality approaches to transform traditional learning contexts in immersive learning experiences. 
+- **Game-based learning and gamification** - From a broad perspective, game-based learning could be seen as an engaging learning technology. But GBL/gamification is more than "playing a game and learning". A well-considered design process, implementation, and evaluation are necessary for both the tool and the teaching context.
+- **Large-scale teaching** - Evaluation of students' learning experiences within a large-scale teaching and learning context.
 - **Curriculum design** - Designing dedicated curricula for different educational contexts and topics such as data science, introduction to programming, or computational thinking. 
-- **LLMs in (CS) Education** - Meaningful (!) integration of large language models (LLMs) into educational contexts, such as individualizing learning experiences.
-- **Game-based learning/Gamification** - From a broad perspective, game-based learning could be seen as an engaging learning technology. But GBL/gamification is more than "playing a game and learning". A well-considered design process, implementation, and evaluation are necessary for both the tool and the teaching context.
-- **Educational Data Analysis** - Analysis of educational data (qualitative and quantitative) retrieved from a real-life context such as courses, workshops, learning technology, etc.
-- **Large-scale Teaching** - Evaluation of students' learning experiences within a large-scale teaching and learning context.
 
 # Teaching
 ## Courses
@@ -30,17 +31,47 @@ During my academic career, I had the opportunity to hold a lot of different lect
 I also had the honor to work with talented Bachelor and Master students and (co-)supervise their thesis:
 
 **Master Students**
+- David Eckhard (2023) - *Design and Development of a Collaborative Multiplayer Environment for Programming Education*
 - David Kerschbaumer (2023) - *The Code to Success: Developing a Student Source Code Analysis Tool to Predict Course Performance and Identify Key Concepts in Programming Education*
 - Michael Umfahrer (2023) - *Development and Implementation of SMAwT - An Online Learning Module to foster Social Media Literacy*
 - Martin Sackl (2021) - *Improving Human-Computer Interactions in a Game-Based Learning Environment*
 - Anil Kumar Tilanthe (2021) - *Development of a Learning Analytics Application for a Coding Learning Game*
 
+**Bachelor Students**
+- Anton Domonkos (2024) - *MessbAR – Entwicklung und Evaluation einer Augmented Reality App im Größenbereich Längen* [Paper PriMaMedien'24]
+- Ratko Savic (2023) - Analyzing Social Networks and Learning Content on a Discussion Forum of an Introductory Programming MOOC in Higher Education [Paper LWMOOCS'23]
+- Mario Skedelj (2023) - Usability Evaluierung einer progressiven Business Web-Applikation mittels Usability Framework
+- Azra Bajramovioc (2023) - *Playing Video Games to Learn Computational Thinking? A Case Study of Game-Based Learning in Secondary CS Education* [ICL'23 Paper]
+- Matthias Hülser (2022) - Designing and Implementation of a Mobile Streaming Platform for the Austrian Red Cross
+- Christoph Schatz (2022) - Analyzing Behavioral Patterns in an Introductory Programming MOOC at University Level  [Paper LWMOOCS'22 Conference]
+
 # Research 
 
-I liked to use [Research Gate](https://www.researchgate.net/profile/Alexander-Steinmaurer-3) for a while to manage all my publications. But as with almost every social network, it requires active maintenance, which takes some time. Even though RG has some good functionality to support you as much as possible, I ended up using mainly [Google Scholar](https://scholar.google.com/citations?hl=de&user=vERJIRAAAAAJ) instead. There you can find all my (recent) papers. Furthermore, I have a [publication list](https://docs.google.com/document/d/1tQNeT14SvJLDQMYDtfQeuHtdW_vwFraIA8bpwHQnCPM/edit?usp=sharing) on Google Docs.  
+## Reserach Vision
+Motivated by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) I strongly favor the concept of having a reserach vision rather than a narrowly defined reserach area. My scientific "home base" lies at the intersection of  **technology** and **education**, which consititues the core of my research engeavors. Since **Data** affects my everyday life, my reserach vision turns around data:
+
+*Data is omnipresent, people generate it every day; it depicts our complex reality. 
+Learning is ubiquitous; people learn every day; it is the basis for positive change. 
+How can data and learning be linked to bring positive change?*
+
+## Research projects
+
+This (non-exhaustive) list of my latest (reserach) projects shows what I am interested in:
+
+- [PM Stocket](https://pm-stocket.at/) - The PM Stocket is a tool that is used since 2021 in the course *Project Management* at Graz University of Technology. The tool was introduced to engage students into various activities within this class (but also beyond the scope of the course). The tool was evaluated every academic year and improved further to provide students with a motivating platform to learn and collaborate.
+- [SMAwT](https://smawt.codislabgraz.org/) - The *Social Media Awareness Training* (SMAwT) is an interdisciplianry reserach project with teachers, educators, software developers, and reserachers from several areas. The aim of this tool is (and was) to train secondary school children in social media skills. The usage of the training was accompanied by a reserach study on how social media affects kids everyday life. 
+- [sCool](https://scool.codislabgraz.org/) - The educational video game sCool was my entry point into academia and research. Based on the idea, that kids learn coding by working with a video game, the tool was developed furhter and improved in several Bachelor's and Master's thesis.
+
+## Publications
+
+I maintain my publications within a Google Docs [publication list](https://docs.google.com/document/d/1tQNeT14SvJLDQMYDtfQeuHtdW_vwFraIA8bpwHQnCPM/edit?usp=sharing)
+
+Before that, I liked to use [Research Gate](https://www.researchgate.net/profile/Alexander-Steinmaurer-3) for a while to manage all my publications. But as with almost every social network, it requires quite active maintenance, which takes some time. Even though RG has some good functionality to support you as much as possible, I ended up using mainly [Google Scholar](https://scholar.google.com/citations?hl=de&user=vERJIRAAAAAJ) instead. There you can find all my (recent) papers.
+
+## Working with me? 
 
 If you are interested in my research area and would like to discuss your ideas for a Bachelor's or Master's thesis, I would love to hear from you - drop me an email (alexander.steinmaurer@it-u.at). Ensure that this email also contains some first serious thoughts on the topic, including an interesting problem/question you would like to answer (you do not have to come up with a solution/implementation, a good question is a perfect starting point!) 
 
-[Here](https://xstone93.github.io/sci-work/#/) I also try to collect some useful resources and give you some advice. Make sure to check this page; It explains the different stages of research projects (as part of a thesis). 
-
+# Useful Resources
+- [Scientific Working](https://xstone93.github.io/sci-work/#/) - As part of my seminar/workshop on *Introduction to Scientific Working* at Graz University of Technology, I started a webpage with helpful guidance and resources. This page will be steadily growing and maintained.  
 

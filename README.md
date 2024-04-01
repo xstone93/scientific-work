@@ -1,4 +1,4 @@
-# Alexander Steinmaurer  - Academic Blog
+# Alexander Steinmaurer - Academic Website
 
 Hi, I am Alexander Steinmaurer, a researcher and lecturer at [IT:U Austria](https://it-u.at/), a newly founded, interdisciplinary university in Linz, Austria. I am also an adjunct fellow to the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
 

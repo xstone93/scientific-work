@@ -50,9 +50,9 @@ I also had the honor to work with talented Bachelor and Master students and (co-
 ## Reserach Vision
 Motivated by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) I strongly favor the concept of having a reserach vision rather than a narrowly defined reserach area. My scientific "home base" lies at the intersection of  **technology** and **education**, which consititues the core of my research engeavors. Since **Data** affects my everyday life, my reserach vision turns around data:
 
-*Data is omnipresent, people generate it every day; it depicts our complex reality. 
-Learning is ubiquitous; people learn every day; it is the basis for positive change. 
-How can data and learning be linked to bring positive change?*
+> *Data is omnipresent, people generate it every day; it depicts our complex reality.
+> Learning is ubiquitous; people learn every day; it is the basis for positive change.
+> How can data and learning be linked to bring positive change?*
 
 ## Research projects
 

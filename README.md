@@ -1,6 +1,6 @@
 # Alexander Steinmaurer - Academic Website
 
-Hi, I am Alexander Steinmaurer, a researcher and lecturer at [IT:U Austria](https://it-u.at/), a newly founded, interdisciplinary university in Linz, Austria. I am also an adjunct fellow to the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
+Hi, I am Alexander Steinmaurer, a researcher and lecturer at [IT:U Austria](https://it-u.at/), a newly founded interdisciplinary university in Linz, Austria. I am also an adjunct fellow at the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
 
 During the fall semester of 2023, I worked as a Research Fellow at the [PLT Group](https://cs.brown.edu/research/plt/) of Brown University. I worked on approaches and tools to rethinking data science/programming education in times of LLMs, advised by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) and [Kathi Fisler](https://cs.brown.edu/~kfisler/).
 
@@ -15,9 +15,11 @@ My research interests are mainly in the field of Computer Science Education. Her
 - **Curriculum design** - Designing dedicated curricula for different educational contexts and topics such as data science, introduction to programming, or computational thinking. 
 
 # Teaching
-## Courses
-During my academic career, I had the opportunity to hold a lot of different lectures and courses. I hold/held courses at Graz University of Technology, FH Campus 02, University of Applied Sciences Upper Austria, and University College of Teacher Education Styria.
+During my academic career, I had the opportunity to give many different lectures and courses. I gave courses at Graz University of Technology, FH Campus 02, University of Applied Sciences Upper Austria, and University College of Teacher Education Styria.
 
+I am especially proud that the courses *Introduction to Programming* and *Object-oriented Programming 1* were nominated (and short-listed) twice for the [**Excellence in Teaching Award**](https://www.tugraz.at/studium/lehre-an-der-tu-graz/strategie-lehre-und-lernen/preis-fuer-exzellente-lehre) from TU Graz. In 2022/23 the course *Object-oriented Programming 1* was finally **awarded** with the [prize](https://www.tugraz.at/tu-graz/services/news-stories/tu-graz-news/einzelansicht/article/tu-graz-praemiert-herausragende-wissensvermittlung). We presented our teaching concept for the course in a [poster](https://steinmaurer.cc/awards/2022-pfel.pdf).
+
+## Courses
 - **Introduction to Programming** \[WS 2020-2024\]  - This course is offered as a first-semester course (winter semester) at TU Graz and is an introduction to programming using the C programming language. Around 800 students from different study programs participate each year in this lecture and practical lab. \[[Course website](https://coding.tugraz.at/), [YT channel](https://www.youtube.com/@codingtugraz)\]
 - **Object-oriented Programming 1**  \[SS 2021-2024\] - This follow-up course on *Introduction to Programming* is a second-semester course where students learn the fundamentals of object-oriented programming using C++.  \[[Course website](https://coding.tugraz.at/), [YT channel](https://www.youtube.com/@codingtugraz)\]
 - **Project Management** \[SS 2021-2024\] - This is a mandatory course in the Bachelor's program of software engineering and management at Graz University of Technology. Students learn about the fundamentals of project management when working on an actual project in teams of four.  \[[YT playlist](https://www.youtube.com/watch?v=TQgwLycf7xY&list=PLtrp6_jkyyuI9P3YqBdLyskZjzquqqyQ4)\]
@@ -48,7 +50,7 @@ I also had the honor to work with talented Bachelor and Master students and (co-
 # Research 
 
 ## Reserach Vision
-Motivated by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) I strongly favor the concept of having a reserach vision rather than a narrowly defined reserach area. My scientific "home base" lies at the intersection of  **technology** and **education**, which consititues the core of my research engeavors. Since **Data** affects my everyday life, my reserach vision turns around data:
+Motivated by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/), I strongly favor having a reserach vision rather than a narrowly defined reserach area. My scientific "home base" lies at the intersection of  **technology** and **education**, constituting the core of my research endeavors. Since **Data** affects my everyday life, my reserach vision turns around data:
 
 > *Data is omnipresent, people generate it every day; it depicts our complex reality.
 > Learning is ubiquitous; people learn every day; it is the basis for positive change.
@@ -58,9 +60,11 @@ Motivated by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) I strongly favor
 
 This (non-exhaustive) list of my latest (reserach) projects shows what I am interested in:
 
-- [PM Stocket](https://pm-stocket.at/) - The PM Stocket is a tool that is used since 2021 in the course *Project Management* at Graz University of Technology. The tool was introduced to engage students into various activities within this class (but also beyond the scope of the course). The tool was evaluated every academic year and improved further to provide students with a motivating platform to learn and collaborate.
-- [SMAwT](https://smawt.codislabgraz.org/) - The *Social Media Awareness Training* (SMAwT) is an interdisciplianry reserach project with teachers, educators, software developers, and reserachers from several areas. The aim of this tool is (and was) to train secondary school children in social media skills. The usage of the training was accompanied by a reserach study on how social media affects kids everyday life. 
-- [sCool](https://scool.codislabgraz.org/) - The educational video game sCool was my entry point into academia and research. Based on the idea, that kids learn coding by working with a video game, the tool was developed furhter and improved in several Bachelor's and Master's thesis.
+- [PDA](https://pda.cs.brown.edu/) \[Currently offline\] - *Divide and conquer* - Decomposing problems to make solvable problems out of it, this is one of the central learning goals of many CS1 courses. In theory, this sounds easy, but in practice, this is one of the hardest concepts to learn! One approach to help students with that is *problem planning* (similar to architects that are making a plan for a house. In traditional classes with a high number of students, this approach will cause scaling issues. PDA tries to solve this problem by using the code generation capabilities of LLMs combined with problems written in natural languages that are translated to source code and tested against a test suite. This tool was developed collaboratively with Brown University and evaluated in one of my coding classes at TU Graz.
+- [TransfArr](https://transfer.cs.brown.edu/) - Transferring between different programming languages can be challenging for beginners. Not only is the syntax different, but semantical and idiomatic features differ between languages. The tool *TransfArr* aims to help learners master the transition from the programming language Pyret to Python by providing a helpful environment. 
+- [PM Stocket](https://pm-stocket.at/) - The PM Stocket is a tool that has been used since 2021 in the course *Project Management* at Graz University of Technology. The tool was introduced to engage students into various activities within this class (but also beyond the scope of the course). The tool was evaluated every academic year and improved further to provide students with a motivating platform to learn and collaborate.
+- [SMAwT](https://smawt.codislabgraz.org/) - The *Social Media Awareness Training* (SMAwT) is an interdisciplinary reserach project with teachers, educators, software developers, and researchers from several areas. The aim of this tool is (and was) to train secondary school children in social media skills. The usage of the training was accompanied by a reserach study on how social media affects kids everyday life. 
+- [sCool](https://scool.codislabgraz.org/) - The educational video game sCool was my entry point into academia and research. Based on the idea that kids learn coding by working with a video game, the tool was developed further and improved in several Bachelor's and Master's thesis.
 
 ## Publications
 
@@ -73,5 +77,5 @@ Before that, I liked to use [Research Gate](https://www.researchgate.net/profile
 If you are interested in my research area and would like to discuss your ideas for a Bachelor's or Master's thesis, I would love to hear from you - drop me an email (alexander.steinmaurer@it-u.at). Ensure that this email also contains some first serious thoughts on the topic, including an interesting problem/question you would like to answer (you do not have to come up with a solution/implementation, a good question is a perfect starting point!) 
 
 # Useful Resources
-- [Scientific Working](https://xstone93.github.io/sci-work/#/) - As part of my seminar/workshop on *Introduction to Scientific Working* at Graz University of Technology, I started a webpage with helpful guidance and resources. This page will be steadily growing and maintained.  
+- [Scientific Working](https://xstone93.github.io/sci-work/#/) - As part of my seminar/workshop on *Introduction to Scientific Working* at Graz University of Technology, I started a webpage with helpful guidance and resources. This page will steadily grow and be maintained.  
 

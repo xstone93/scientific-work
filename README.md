@@ -77,5 +77,6 @@ Before that, I liked to use [Research Gate](https://www.researchgate.net/profile
 If you are interested in my research area and would like to discuss your ideas for a Bachelor's or Master's thesis, I would love to hear from you - drop me an email (alexander.steinmaurer@it-u.at). Ensure that this email also contains some first serious thoughts on the topic, including an interesting problem/question you would like to answer (you do not have to come up with a solution/implementation, a good question is a perfect starting point!) 
 
 # Useful Resources
-- [Scientific Working](https://xstone93.github.io/sci-work/#/) - As part of my seminar/workshop on *Introduction to Scientific Working* at Graz University of Technology, I started a webpage with helpful guidance and resources. This page will steadily grow and be maintained.  
+- [Scientific Working](https://xstone93.github.io/sci-work/#/) - As part of my seminar/workshop on *Introduction to Scientific Working* at Graz University of Technology, I started a webpage with helpful guidance and resources. This page will steadily grow and be maintained.
+- [List of relevant CS Ed Conferences](https://docs.google.com/spreadsheets/d/1BFFXFWN5bR7jY3idMN9hMndbALh8a-r1DS32HCrDHyI/edit?usp=sharing) - I started a list with conferences that I personally find relevant in the field of Immersive Learning and CS Education. 
 

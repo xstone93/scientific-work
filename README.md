@@ -1,6 +1,6 @@
 # Alexander Steinmaurer - Academic Website
 
-Hi, I am Alexander Steinmaurer, a researcher and lecturer at [IT:U Austria](https://it-u.at/), a newly founded interdisciplinary university in Linz, Austria. I am also an adjunct fellow at the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
+Hi, I am Alex Steinmaurer, Study Program Coordinator of the Ph.D. Program "Digital Transformation in Learning" and Post Doc ("Computing Education") at [IT:U Austria](https://it-u.at/), a newly founded interdisciplinary university in Linz, Austria. I am also an adjunct fellow at the [Cognitive and Digital Science Lab](https://codislabgraz.org/) at Graz University of Technology. I obtained a Ph.D. in Computer Science from the [Faculty of Computer Science and Biomedical Engineering](https://csbme.tugraz.at/) at Graz University of Technology under the supervision of [Christian Gütl](https://online.tugraz.at/tug_online/pl/ui/$ctx/visitenkarte.show_vcard?pPersonenId=DBBE6CF53E98F4C0&pPersonenGruppe=3). 
 
 During the fall semester of 2023, I worked as a Research Fellow at the [PLT Group](https://cs.brown.edu/research/plt/) of Brown University. I worked on approaches and tools to rethinking data science/programming education in times of LLMs, advised by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) and [Kathi Fisler](https://cs.brown.edu/~kfisler/).
 
@@ -20,6 +20,7 @@ During my academic career, I had the opportunity to give many different lectures
 I am especially proud that the courses *Introduction to Programming* and *Object-oriented Programming 1* were nominated (and short-listed) twice for the [**Excellence in Teaching Award**](https://www.tugraz.at/studium/lehre-an-der-tu-graz/strategie-lehre-und-lernen/preis-fuer-exzellente-lehre) from TU Graz. In 2022/23 the course *Object-oriented Programming 1* was finally **awarded** with the [prize](https://www.tugraz.at/tu-graz/services/news-stories/tu-graz-news/einzelansicht/article/tu-graz-praemiert-herausragende-wissensvermittlung). We presented our teaching concept for the course in a [poster](https://steinmaurer.cc/awards/2022-pfel.pdf).
 
 ## Courses
+- **Introduction to Computing** \[WS 2024\] - This course is a newly developed concept for interdisciplinary Ph.D. students to teach the fundamentals of computational thinking, programming (Python programming language), operating systems, and web-technologies.
 - **Introduction to Programming** \[WS 2020-2024\]  - This course is offered as a first-semester course (winter semester) at TU Graz and is an introduction to programming using the C programming language. Around 800 students from different study programs participate each year in this lecture and practical lab. \[[Course website](https://coding.tugraz.at/), [YT channel](https://www.youtube.com/@codingtugraz)\]
 - **Object-oriented Programming 1**  \[SS 2021-2024\] - This follow-up course on *Introduction to Programming* is a second-semester course where students learn the fundamentals of object-oriented programming using C++.  \[[Course website](https://coding.tugraz.at/), [YT channel](https://www.youtube.com/@codingtugraz)\]
 - **Project Management** \[SS 2021-2024\] - This is a mandatory course in the Bachelor's program of software engineering and management at Graz University of Technology. Students learn about the fundamentals of project management when working on an actual project in teams of four.  \[[YT playlist](https://www.youtube.com/watch?v=TQgwLycf7xY&list=PLtrp6_jkyyuI9P3YqBdLyskZjzquqqyQ4)\]
@@ -32,14 +33,20 @@ I am especially proud that the courses *Introduction to Programming* and *Object
 ## Supervising 
 I also had the honor to work with talented Bachelor and Master students and (co-)supervise their thesis:
 
-**Master Students**
+**Current Ph.D. Students**
+I am currently (co-)supervising the following Ph.D. students: 
+- David Kerschbaumer (TU Graz) 
+- Sebastian Gürtl (TU Graz) 
+- Saba Soleimani (IT:U Austria)  
+
+**Former Master Students**
 - David Eckhard (2023) - *Design and Development of a Collaborative Multiplayer Environment for Programming Education*
 - David Kerschbaumer (2023) - *The Code to Success: Developing a Student Source Code Analysis Tool to Predict Course Performance and Identify Key Concepts in Programming Education*
 - Michael Umfahrer (2023) - *Development and Implementation of SMAwT - An Online Learning Module to foster Social Media Literacy*
 - Martin Sackl (2021) - *Improving Human-Computer Interactions in a Game-Based Learning Environment*
 - Anil Kumar Tilanthe (2021) - *Development of a Learning Analytics Application for a Coding Learning Game*
 
-**Bachelor Students**
+**Former Bachelor Students**
 - Anton Domonkos (2024) - *MessbAR – Entwicklung und Evaluation einer Augmented Reality App im Größenbereich Längen* [Paper PriMaMedien'24]
 - Ratko Savic (2023) - Analyzing Social Networks and Learning Content on a Discussion Forum of an Introductory Programming MOOC in Higher Education [Paper LWMOOCS'23]
 - Mario Skedelj (2023) - Usability Evaluierung einer progressiven Business Web-Applikation mittels Usability Framework

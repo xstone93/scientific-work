@@ -5,14 +5,15 @@ Hi, I am Alex Steinmaurer, Study Program Coordinator of the Ph.D. Program "Digit
 During the fall semester of 2023, I worked as a Research Fellow at the [PLT Group](https://cs.brown.edu/research/plt/) of Brown University. I worked on approaches and tools to rethinking data science/programming education in times of LLMs, advised by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) and [Kathi Fisler](https://cs.brown.edu/~kfisler/).
 
 My research interests are mainly in the field of Computer Science Education. Here is a list of topics that I am interested in:
-
-- **Engaging learning technologies** - Designing engaging and interactive learning experiences in digital (and immersive) environments. This not only includes the development of technologies but also the evaluation within an educational setting. 
-- **LLM-assisted (CS) teaching** - Meaningful (!) integration of large language models (LLMs) into educational contexts, such as individualizing learning experiences.
-- **Educational data analysis** - Analysis of educational data (qualitative and quantitative) retrieved from a real-life context such as courses, workshops, learning technology, or data sets.
-- **Virtual Reality in Teaching** - Using mixed reality approaches to transform traditional learning contexts in immersive learning experiences. 
-- **Game-based learning and gamification** - From a broad perspective, game-based learning could be seen as an engaging learning technology. But GBL/gamification is more than "playing a game and learning". A well-considered design process, implementation, and evaluation are necessary for both the tool and the teaching context.
+ 
+- **LLM-assisted (CS) Education** - Meaningful (!) integration of large language models (LLMs) into educational contexts, such as individualizing learning experiences.
+- **Educational Data Analysis** - Analysis of educational data (qualitative and quantitative) retrieved from a real-life context such as courses, workshops, learning technology, or data sets.
+- **Game-based learning and Gamification** - From a broad perspective, game-based learning could be seen as an engaging learning technology. But GBL/gamification is more than "playing a game and learning". A well-considered design process, implementation, and evaluation are necessary for both the tool and the teaching context.
 - **Large-scale teaching** - Evaluation of students' learning experiences within a large-scale teaching and learning context.
 - **Curriculum design** - Designing dedicated curricula for different educational contexts and topics such as data science, introduction to programming, or computational thinking. 
+- **Engaging learning technologies** - Designing engaging and interactive learning experiences in digital (and immersive) environments. This not only includes the development of technologies but also the evaluation within an educational setting.
+- **Virtual Reality in Education** - Using mixed reality approaches to transform traditional learning contexts in immersive learning experiences. 
+
 
 # Teaching
 During my academic career, I had the opportunity to give many different lectures and courses. I gave courses at Graz University of Technology, FH Campus 02, University of Applied Sciences Upper Austria, and University College of Teacher Education Styria.
@@ -48,11 +49,11 @@ I am currently (co-)supervising the following Ph.D. students:
 
 **Former Bachelor Students**
 - Anton Domonkos (2024) - *MessbAR – Entwicklung und Evaluation einer Augmented Reality App im Größenbereich Längen* [Paper PriMaMedien'24]
-- Ratko Savic (2023) - Analyzing Social Networks and Learning Content on a Discussion Forum of an Introductory Programming MOOC in Higher Education [Paper LWMOOCS'23]
-- Mario Skedelj (2023) - Usability Evaluierung einer progressiven Business Web-Applikation mittels Usability Framework
+- Ratko Savic (2023) - *Analyzing Social Networks and Learning Content on a Discussion Forum of an Introductory Programming MOOC in Higher Education [Paper LWMOOCS'23]
+- Mario Skedelj (2023) - *Usability Evaluierung einer progressiven Business Web-Applikation mittels Usability Framework*
 - Azra Bajramovioc (2023) - *Playing Video Games to Learn Computational Thinking? A Case Study of Game-Based Learning in Secondary CS Education* [ICL'23 Paper]
-- Matthias Hülser (2022) - Designing and Implementation of a Mobile Streaming Platform for the Austrian Red Cross
-- Christoph Schatz (2022) - Analyzing Behavioral Patterns in an Introductory Programming MOOC at University Level  [Paper LWMOOCS'22 Conference]
+- Matthias Hülser (2022) - *Designing and Implementation of a Mobile Streaming Platform for the Austrian Red Cross*
+- Christoph Schatz (2022) - *Analyzing Behavioral Patterns in an Introductory Programming MOOC at University Level*  [Paper LWMOOCS'22 Conference]
 
 # Research 
 
@@ -85,5 +86,6 @@ If you are interested in my research area and would like to discuss your ideas f
 
 # Useful Resources
 - [Scientific Working](https://xstone93.github.io/sci-work/#/) - As part of my seminar/workshop on *Introduction to Scientific Working* at Graz University of Technology, I started a webpage with helpful guidance and resources. This page will steadily grow and be maintained.
-- [List of relevant CS Ed Conferences](https://docs.google.com/spreadsheets/d/1BFFXFWN5bR7jY3idMN9hMndbALh8a-r1DS32HCrDHyI/edit?usp=sharing) - I started a list with conferences that I personally find relevant in the field of Immersive Learning and CS Education. 
+- [List of relevant CS Ed Conferences](https://docs.google.com/spreadsheets/d/1BFFXFWN5bR7jY3idMN9hMndbALh8a-r1DS32HCrDHyI/edit?usp=sharing) - I started a list with conferences that I personally find relevant in the field of Immersive Learning and CS Education.
+- [How to Design Talks?](https://docs.google.com/document/d/1nqsHR9ixeb6cT-gur9tpUo2exREu4gWDR6BQx3LWnRc/edit?tab=t.0) - Shriram Krishnamurthi set up a fantastic document on the question "How to Design Talks?", definitely worth reading!  
 

@@ -87,5 +87,4 @@ If you are interested in my research area and would like to discuss your ideas f
 # Useful Resources
 - [Scientific Working](https://xstone93.github.io/sci-work/#/) - As part of my seminar/workshop on *Introduction to Scientific Working* at Graz University of Technology, I started a webpage with helpful guidance and resources. This page will steadily grow and be maintained.
 - [List of relevant CS Ed Conferences](https://docs.google.com/spreadsheets/d/1BFFXFWN5bR7jY3idMN9hMndbALh8a-r1DS32HCrDHyI/edit?usp=sharing) - I started a list with conferences that I personally find relevant in the field of Immersive Learning and CS Education.
-- [How to Design Talks?](https://docs.google.com/document/d/1nqsHR9ixeb6cT-gur9tpUo2exREu4gWDR6BQx3LWnRc/edit?tab=t.0) - Shriram Krishnamurthi set up a fantastic document on the question "How to Design Talks?", definitely worth reading!  
 
